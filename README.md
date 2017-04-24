@@ -1,4 +1,1 @@
-#Change
-#have
-#been
-#made
+<h1>Hello, Rails!</h1>
